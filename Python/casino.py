@@ -62,7 +62,7 @@ def main():
 
     if yn == "no":
         print("Your total: " + str(tot_win))
-        print("Goodbye!")
+        print("Goodbye")
         exit()
 
 
